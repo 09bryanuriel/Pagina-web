@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body{
+    background-color: #e2f7e4;
+}
+
+.titulo{
+    text-align: center;
+    background-color: #27787b;
+    color: white;
+    font-size: 120%;
+    padding: 15px;
+    margin-bottom: 35px
+    
+}
+
+audio{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-bottom:35px;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+.separador{
+    height: 50px;
+    clear: both;
+}
+
+.regresar a{
+    background-color: #5f6dd8;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 47%;
+    font-size: 175%;
+    
+}
+
+.regresar a:hover{
+    background-color: white;
+    color: #5f6dd8;
+    
+}
+
+
+
